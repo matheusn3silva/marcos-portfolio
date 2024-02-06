@@ -28,7 +28,7 @@ Tive somente dificuldade no começo para me acostumar com essa organização de 
 - Utilizando o Atomic Design tive que fazer diversas importações, exportações e registros de componentes mas isso vai se resolver com o Nuxt.js ( meu próximo módulo do curso ), que faz esses registros automaticamente, fazendo do método algo utilizavel.
 
 ## Autor
-<img width="150px" height="150px" src="./assets/images/foto.jpeg" />
+<img width="150px" height="150px" src="./src/assets/images/foto.jpeg" />
 
 <h3>Matheus Nascimento</h3>
 
